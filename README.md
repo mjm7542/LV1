@@ -1,6 +1,7 @@
 # LV1
 항해99 주특기 LV1
 
+
 1. 수정, 삭제 API에서 Resource를 구분하기 위해서 Request를 어떤 방식으로 사용하셨나요? (`param`, `query`, `body`)
     
     
